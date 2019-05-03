@@ -1,7 +1,7 @@
 # Connect4-project
 
 //**************************************************************************************************************************
-NOTE: If you wwant to run this program in a Greenfoot version 3.0 and newer,
+NOTE: If you want to run this program in a Greenfoot version 3.0 and newer,
 you have to comment or delele the "import java.awt.Color" as Greenfoot has its own Color class starting with version 3.0
 
 ALSO.... you must change Color.black to Color.BLACK  (black needs to be completely capitalized!!)
